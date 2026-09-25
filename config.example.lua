@@ -5,7 +5,7 @@
 return {
     -- API Key（从 koobone.com 个人页面获取，插件直接放到 X-KB-INFO 请求头进行鉴权）
     -- 格式示例："kbs-xxxxxxxxxxx（空格会被自动忽略）
-    api_key = "",
+    api_key = "kbs-1042 3346 2862 9651",
 
     -- 网站地址（可选，默认 https://koobone.com）
     base_host = "https://koobone.com",
